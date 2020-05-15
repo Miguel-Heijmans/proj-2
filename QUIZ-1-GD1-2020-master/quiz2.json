@@ -1,0 +1,82 @@
+{
+    "quizID": "Quiz1",
+    "quizMetaData":
+    {
+        "title": "World of Warcraft lore quiz 2",
+        "imageURI": "https://amazingmerch.net/wp-content/uploads/2018/07/World-of-Warcraft-is-now-Subscribe-to-Play-1-870x460.jpg"
+    },
+    "quizContent":
+    [ 
+        {   "question": "How many orc clan's exist",
+            "answers": 
+            [
+                {
+                    "answer": "7",
+                    "feedback": false
+                },
+                {
+                    "answer": "13",
+                    "feedback": false
+                },
+                {
+                    "answer": "15",
+                    "feedback": false
+                },
+                {
+                    "answer": "20",
+                    "feedback": true
+                },
+                {
+                    "answer": "23",
+                    "feedback": false
+                },
+                {
+                    "answer": "28",
+                    "feedback": false
+                }
+            ]
+        },
+        {   "question": "Who created the first Demon Hunter",
+            "answers": 
+            [
+                {
+                    "answer": "Sargeras",
+                    "feedback": true
+                },
+                {
+                    "answer": "Illidan Stormrage",
+                    "feedback": false
+                },
+                {
+                    "answer": "Lady Vash'j",
+                    "feedback": false
+                },
+                {
+                    "answer": "Azzinoth",
+                    "feedback": false
+                }
+            ]
+        },
+        {   "question": "Who was the first Death Knight ever created",
+            "answers": 
+            [
+                {
+                    "answer": "Arthas Menethil",
+                    "feedback": false
+                },
+                {
+                    "answer": "Teron Gorefiend",
+                    "feedback": true
+                },
+                {
+                    "answer": "Darion Mograine",
+                    "feedback": false
+                },
+                {
+                    "answer": "Ner'Zul",
+                    "feedback": false
+                }
+            ]
+        }
+    ]
+}

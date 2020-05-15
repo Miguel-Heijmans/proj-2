@@ -1,0 +1,85 @@
+{
+	"quizID": "Quiz1",
+    "quizMetaData":
+    {
+        "title": "World of Warcraft lore quiz",
+        "imageURI": "https://amazingmerch.net/wp-content/uploads/2018/07/World-of-Warcraft-is-now-Subscribe-to-Play-1-870x460.jpg"
+    },
+    "quizContent":		
+	[
+		{
+			"question": "How many old gods exist on Azeroth",
+			"answers": 
+			[
+				{
+					"answer": "1",
+					"feedback": false
+				},
+				{
+					"answer": "2",
+					"feedback": false
+				},
+				{
+					"answer": "3",
+					"feedback": false
+				},
+				{
+					"answer": "4",
+					"feedback": false
+				},
+				{
+					"answer": "5",
+					"feedback": true
+				},
+				{
+					"answer": "6",
+					"feedback": false
+				}
+			]
+		},
+		{
+			"question": "Who is part of the modern (So past the legion expansion) four horseman",
+			"answers": 
+			[
+				{
+					"answer": "Galen Trollbane",
+					"feedback": false
+				},
+				{
+					"answer": "Danath Trollbane",
+					"feedback": false
+				},
+				{
+					"answer": "Thoras Trollbane",
+					"feedback": true
+				},
+				{
+					"answer": "Renault Morgraine",
+					"feedback": false
+				}
+			]
+		},
+		{
+			"question": "Who let the campaign against the Lich king for the Horde",
+			"answers": 
+			[
+				{
+					"answer": "Thrall",
+					"feedback": false
+				},
+				{
+					"answer": "Garrosh Hellscream",
+					"feedback": true
+				},
+				{
+					"answer": "Varok Saurfang",
+					"feedback": false
+				},
+				{
+					"answer": "Sylvanas Windrunner",
+					"feedback": false
+				}
+			]
+		}
+	]
+}
