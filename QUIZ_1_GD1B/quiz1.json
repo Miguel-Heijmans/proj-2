@@ -1,0 +1,77 @@
+{
+	"quizID": "Quiz1",
+    "quizMetaData":
+    {
+        "title": "DOOM quiz",
+        "imageURI": "https://external-preview.redd.it/B4ny8zd86F6LjICWrYYEAZhH4EkwkCgR08PvjKu8Yok.jpg?auto=webp&s=b4e13270c8ff5ef569a8f8dcda633cbaf8d14a4f"
+    },
+    "quizContent":
+	[
+		{
+			"question": "When Was The First Doom Released?",
+			"answers":
+			[
+				{
+					"answer": "1989",
+					"feedback": false
+				},
+				{
+					"answer": "1997",
+					"feedback": false
+				},
+				{
+					"answer": "1993",
+					"feedback": true
+				},
+				{
+					"answer": "1992",
+					"feedback": false
+				}
+			]
+		},
+		{
+			"question": "What Is The Name Of The Protagonist Of Doom?",
+			"answers":
+			[
+				{
+					"answer": "DoomGuy",
+					"feedback": true
+				},
+				{
+					"answer": "Doom Master",
+					"feedback": false
+				},
+				{
+					"answer": "Hector Braveheart",
+					"feedback": true
+				},
+				{
+					"answer": "Sargeant Maelstrom",
+					"feedback": false
+				}
+			]
+		},
+		{
+			"question": "What Genre Is Doom Often Crediting With Pioneering?",
+			"answers":
+			[
+				{
+					"answer": "Horror",
+					"feedback": false
+				},
+				{
+					"answer": "The First Person Shooter (FPS)",
+					"feedback": true
+				},
+				{
+					"answer": "Puzzle Game",
+					"feedback": false
+				},
+				{
+					"answer": "Action RPG",
+					"feedback": false
+				}
+			]
+		}
+	]
+}
